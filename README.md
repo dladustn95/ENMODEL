@@ -34,7 +34,7 @@ python interact_key.py --dataset_path DATAPATH/Name --model_checkpoint MODELPATH
 
 Source|Target
 
-Below files is in same directory
+Below files is in same directory  
 DataName_train.txt  / DataName_train_keyword.txt  
 DataName_valid.txt  / DataName_valid_keyword.txt  
 DataName_test.txt   / DataName_test_keyword.txt  
