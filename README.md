@@ -2,10 +2,18 @@
 
 ## Installation
 
+### Requirements
+* torch
+* pytorch-ignite==0.3.0
+* transformers==2.5.1
+* tensorboardX==1.8
+* tensorflow  # for tensorboardX
+
 ```bash
 pip install -r requirements.txt
 ```
 Move transformer_file to transformers
+
 
 
 ## Train
